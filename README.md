@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" https://gifer.com/en/Ry6p> 
+<img align="right" alt="coding" width="300" https://gifer.com/en/Ry6p> 
 
 <p align="left"> <img src="https://i.gifer.com/XZ5V.gif" /> </p>
 
