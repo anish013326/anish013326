@@ -3,6 +3,7 @@
 
 
 <p align="left"> <img src="https://i.gifer.com/XZ5V.gif" width="300" /> </p>
+<p align="right"> <img src="https://gifdb.com/images/high/fast-green-stream-coding-kjuq7exuta2jv16v.webp" width="300" /> </p>
 
 - 🌱 I’m currently learning **node.js, Express.js**
 
