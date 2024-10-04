@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="150px" https://gifer.com/en/Ry6p> 
 
-<p align="left"> <img src="https://i.gifer.com/XZ5V.gif" /> </p>
+<p align="left"> <img src="https://i.gifer.com/XZ5V.gif" width="300" /> </p>
 
 - 🌱 I’m currently learning **node.js, Express.js**
 
