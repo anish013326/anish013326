@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" https://gifer.com/en/Ry6p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish013326&label=Profile%20views&color=0e75b6&style=flat" alt="anish013326" /> </p>
+<p align="left"> <img src="https://i.gifer.com/XZ5V.gif" /> </p>
 
 - 🌱 I’m currently learning **node.js, Express.js**
 
