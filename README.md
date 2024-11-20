@@ -1,4 +1,8 @@
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anish013326&show_icons=true&theme=radical)
+### 🛠️ Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 
 
 <h1 align="center">Hi 👋, I'm Anish</h1>
