@@ -1,10 +1,16 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/your-channel)
+# Hi 👋, I'm Anish  
+**A passionate frontend and MERN stack developer from India.**
 
+---
 
-<h1 align="center">Hi 👋, I'm Anish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+### 🌟 About Me  
+- 🎓 I'm currently pursuing a BTech in Computer Science at Sagar Institute of Technology, Bhopal.  
+- 🌱 I’m currently learning **Node.js**, **Express.js**, and **MongoDB** to enhance my backend development skills.  
+- 🎯 My goals:
+  - Become a **successful software engineer**.
+  - Create impactful projects that solve real-world problems.
+  - Share my knowledge through **YouTube tutorials** and help others learn.  
+- 💡 Fun fact: I enjoy building projects and exploring **3D web technologies** like **three.js**!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish013326&label=Profile%20views&color=0e75b6&style=flat" alt="anish013326" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish013326" alt="anish013326" /></a> </p>
