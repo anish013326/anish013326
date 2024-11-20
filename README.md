@@ -1,3 +1,6 @@
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anish013326&show_icons=true&theme=radical)
+
+
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
