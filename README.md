@@ -11,6 +11,12 @@
   - Create impactful projects that solve real-world problems.
   - Share my knowledge through **YouTube tutorials** and help others learn.  
 - 💡 Fun fact: I enjoy building projects and exploring **3D web technologies** like **three.js**!
+
+- ### 📈 Achievements  
+- 🏆 Completed **NPTEL Java Programming** course.  
+- 🌟 **MERN Stack Developer** (Frontend Phase Completed).  
+- 📌 Contributor to GitHub with **55 profile views** and growing!  
+- 🥇 Published **YouTube tutorials** to help others learn.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish013326&label=Profile%20views&color=0e75b6&style=flat" alt="anish013326" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish013326" alt="anish013326" /></a> </p>
