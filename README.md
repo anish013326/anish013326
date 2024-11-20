@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish013326" alt="anish013326" /></a> </p>
 
-- 🌱 I’m currently learning **node.js, Express.js ,MongoDB**
+
 
 - 📫 How to reach me **Akumar74433@gmail.com**
 
