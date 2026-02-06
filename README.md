@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **anish013326/anish013326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -119,4 +119,4 @@ Here are some ideas to get you started:
 - **Email:** [Akumar74433@gmail.com](mailto:Akumar74433@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
